@@ -1,3 +1,4 @@
+import os
 from fastmcp import FastMCP
 
 mcp = FastMCP("IT Helpdesk MCP Server")
