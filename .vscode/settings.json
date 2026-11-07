@@ -1,0 +1,9 @@
+{
+  "mcp": {
+    "servers": {
+      "it-helpdesk-mcp-server-remote": {
+        "url": "https://it-helpdesk-mcp-server-production.up.railway.app/mcp"
+      }
+    }
+  }
+}
